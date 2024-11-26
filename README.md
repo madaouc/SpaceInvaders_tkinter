@@ -4,6 +4,7 @@
 Change Folder name to PY_Project, and put folder to C:\
 
 // tkinter install, python
+
 pip install tk
 
 
