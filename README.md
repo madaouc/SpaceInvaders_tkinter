@@ -12,3 +12,8 @@ pip install tk
 Auto get path
 
 Object Oriented Programming
+
+
+setup.py gen .exe, not working on Python3
+
+wait to fix
